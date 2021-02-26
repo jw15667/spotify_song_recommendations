@@ -3,11 +3,10 @@
 ## Content
 ##### 1. Project Aim
 ##### 2. Technologies
-##### 3. Explore the Data.
-##### 4. Build the Model.
-##### 5. Project Status.
-##### 6. Sources.
-##### 7. Additional Information. 
+##### 3. Build the Model.
+##### 4. Project Status.
+##### 5. Sources.
+##### 6. Additional Information. 
 
 ### Project Aim
 Scrape all songs from my spotify playlist. 
